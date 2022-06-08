@@ -1,7 +1,7 @@
-# Merkle Tree
+# Merkle Tree :deciduous_tree:
 > WAGMI, Keep Buidling!
 
-## Verify with Less Space Occupation!
+## Verify with Less Space Occupation! :floppy_disk:
 
 ![](https://miro.medium.com/max/1400/0*aOKIp5OPJoSSx0Qa.png)
 
@@ -15,7 +15,7 @@ A Merkle tree is a type of hash tree in which each leaf node is labeled with the
 * Git
 * Distributed databases such as AWS DynamoDB and Apache Cassandra use Merkle trees to control discrepancies
 
-## Verification of Presence in Merkle Trees
+## Verification of Presence in Merkle Trees :mag_right:
 
 ![](https://miro.medium.com/max/1400/1*gp9RaSxleAb3f9uZngpl3A.png)
 
