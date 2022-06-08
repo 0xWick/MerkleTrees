@@ -5,8 +5,7 @@
 
 ## About
 
-![logo](https://medium.com/@vinayprabhu19/merkel-tree-in-java-b45093c8c6bd)
-
+![](https://miro.medium.com/max/1400/0*aOKIp5OPJoSSx0Qa.png)
 ## What are Merkle Trees?
 
 A Merkle tree is a type of hash tree in which each leaf node is labeled with the cryptographic hash of a data block, and each non-leaf node is labeled with the cryptographic hash of its child nodes' labels. The majority of hash tree implementations are binary (each node has two child nodes), but they can also have many more child nodes.
@@ -19,7 +18,7 @@ A Merkle tree is a type of hash tree in which each leaf node is labeled with the
 
 ## Verification of Presence in Merkle Trees
 
-![logo](https://miro.medium.com/max/1400/1*gp9RaSxleAb3f9uZngpl3A.png)
+![](https://miro.medium.com/max/1400/1*gp9RaSxleAb3f9uZngpl3A.png)
 
 In the diagram above, let's think about what info must be given to the Verifier that will positively prove to the Verifier that K is part of the Merkle Tree.
 
